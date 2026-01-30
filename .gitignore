@@ -15,5 +15,6 @@ frames
 runs
 dataset
 labels
+beer_videos
 
 *.pt
