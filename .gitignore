@@ -8,3 +8,12 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Training videos + frames
+videos
+frames
+runs
+dataset
+labels
+
+*.pt
